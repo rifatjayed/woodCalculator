@@ -1,0 +1,16 @@
+.container{
+    width: 40%;
+    height: auto;
+}
+.suppose{
+    font-size: 20px;
+}
+.results{
+    display: none;
+}
+.btn{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    /* font-weight: bold; */
+}
